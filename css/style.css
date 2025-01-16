@@ -1,0 +1,32 @@
+*{
+	margin:0px;
+	background: #0012;
+}
+h1{
+	color: #000;
+	background-color: #098;
+	margin: 10px;
+	padding: 5px;
+	text-align: center;
+}
+P{
+	color: rebeccapurple;
+	background: palegreen;
+	padding: 5px;
+	margin: 10px;
+}
+.h2{
+	color: pink;
+	background: red;
+	margin:5px;
+	padding: 10px;
+	display:inline-block;
+	text-align: center;
+}
+#size{
+	color: skyblue;
+	background: royalblue;
+	margin: 5px;
+	padding: 10px;
+	font-size: 20px;
+}
